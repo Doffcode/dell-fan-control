@@ -20,7 +20,7 @@ sudo apt install python3-gi gir1.2-gtk-3.0
 **1. Clone or Download the repository**
 Download this repository to your computer and extract it, or clone it via terminal:
 ```bash
-git clone https://github.com/YOUR_USERNAME/dell-fan-control.git
+git clone https://github.com/Doffcode/dell-fan-control.git
 cd dell-fan-control
 ```
 
