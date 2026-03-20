@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Dell Fan Control
+Comment=Control System Fans
+Exec=/usr/bin/python3 /opt/dell-fan-control/dell_fan_control.py
+Icon=utilities-system-monitor
+Terminal=false
+Type=Application
+Categories=Utility;System;
